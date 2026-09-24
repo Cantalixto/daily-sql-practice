@@ -1,5 +1,5 @@
 -- Repositório: daily-sql-practice
--- Origem: SQLBolt - Lesson 7: SELECT queries with JOINs
+-- Origem: SQLBolt - Lesson 6: Multi-table queries with JOINs
 -- Tabelas utilizadas: movies e boxoffice
 
 -- 1. Find the domestic and international sales for each movie
